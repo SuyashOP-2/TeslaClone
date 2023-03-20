@@ -1,0 +1,19 @@
+.aligner {
+    display: flex;
+    height: -moz-fit-content;
+    height: fit-content;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media (max-width: 768px) {
+    /* adjust styles for smaller devices */
+    .aligner {
+        flex-direction: column;
+        height: auto;
+        
+    }
+}
