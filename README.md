@@ -11,7 +11,7 @@ Build and Deployed TESLA CLONE Using ReactJS and Tailwind CSS
 
 
 
-[https://elontesla.netlify.app/](https://elontesla.netlify.app/)
+Link For Tesla Clone - [https://elontesla.netlify.app/](https://elontesla.netlify.app/)
 
 
 
