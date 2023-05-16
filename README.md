@@ -1,4 +1,4 @@
-Build and Deployed TESLA CLONE Using ReactJS and Tailwind CSS
+Build and Deployed TESLA CLONE Using the ReactJS and Tailwind CSS
 
 
 
